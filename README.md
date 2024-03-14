@@ -1,4 +1,7 @@
+<h1 align='center'>AYOUB ELKHAIARI</h1>
+
 ### Hi there 👋
+
 
 <!--
 **Ayoub-Elkhaiari/Ayoub-Elkhaiari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
