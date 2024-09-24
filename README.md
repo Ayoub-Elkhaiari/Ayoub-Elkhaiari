@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub Elkhaiari</h1>
-<h3 align="center">A passionate Data Scientist & Software Engineer From Morocco</h3>
+<h3 align="center">A passionate Data Scientist | AI Engineer | Data Engineer & Software Engineer From Morocco</h3>
 
 <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0df0c564-d244-45f9-84cf-6583f62559b2_560x240.gif" align = "right" width="400" >
 <!-- <img src="https://miro.medium.com/v2/resize:fit:960/1*oJwImXIdksNBJ1ocRPNurg.gif" align="right" width="400"> -->
