@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available in **my Github**
 
-- 💬 Ask me about **Data Science and Software Development**
+- 💬 Ask me about **Methematics,AI,  Data Science, Software Security and Development**
 
 - 📫 How to reach me **elkhaiariayoub@gmail.com**
 
