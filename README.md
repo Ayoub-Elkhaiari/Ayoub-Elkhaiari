@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Data Science and Software Development**
 
-- 📫 How to reach me **aizensoosky@gmail.com**
+- 📫 How to reach me **elkhaiariayoub@gmail.com**
 
 - ⚡ Fun fact **I like watching and drawing animes**
 
