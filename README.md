@@ -1,4 +1,4 @@
-<h1 align-"center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&pause=1000&random=false&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There%F0%9F%91%8B%2C+I'm+Ayoub+EL+KHAIARI+!)](https://git.io/typing-svg)</h1>
+<p align-"center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&pause=1000&random=false&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There%F0%9F%91%8B%2C+I'm+Ayoub+EL+KHAIARI+!)](https://git.io/typing-svg)</p>
 
 <h3 align="center">A passionate Data Scientist | AI Engineer | Data Engineer & Software Engineer Located in France</h3>
 
